@@ -1,2 +1,2 @@
-# Lab-Exercise---9---Diffie-Hellman-Key-Exchange-Algorithm
+# Lab-Exercise---10---Diffie-Hellman-Key-Exchange-Algorithm
 Aim Procedure Output Result
